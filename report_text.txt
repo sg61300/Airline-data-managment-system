@@ -1,0 +1,2 @@
+web.show_document('http://localhost:8888/reports/rwservlet?report=d:\ind_air\date_wise_r.jsp&userid=ind_air/ind_air@vis&destype=cache&desformat=htmlcss&&RSRV_DATE='||
+NULL;
